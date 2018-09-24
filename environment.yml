@@ -109,7 +109,7 @@ dependencies:
   - sklearn_pandas
   - feather-format
   - jupyter_contrib_nbextensions
-  - plotnine
+  #- plotnine
   - awscli
   - kaggle-cli
   - ipywidgets
